@@ -50,7 +50,7 @@ chat_bot/
 3.Install dependencies:
    ```bash
    pip install -r req.txt
-   ```
+```
    
 4. Prepare your data:
 
