@@ -49,7 +49,9 @@ chat_bot/
     source venv/bin/activate
    
 3.Install dependencies:
-   ``` pip install -r req.txt ```
+   ``` bash
+   pip install -r req.txt
+   ```
    
 4. Prepare your data:
 
