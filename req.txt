@@ -1,0 +1,6 @@
+emoji
+docx
+bs4
+PyPDF2
+transformers
+datasets
